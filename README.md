@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [JavaScript for Web Developers: Understanding the Basics](https://www.link.springer.com/book/10.1007/978-1-4842-9773-5) by %author% (Apress, %pubyear%).
+This repository accompanies [JavaScript for Web Developers: Understanding the Basics](https://www.link.springer.com/book/10.1007/978-1-4842-9773-5) by Mark Simon (Apress, 2023).
 
 [comment]: #cover
 ![Cover image](9781484297735.jpg)
